@@ -1,0 +1,9 @@
+/backtrader1
+/datas
+
+/tusharetoken.txt
+/survivorship-free
+*.csv
+*.xlsx
+*.docx
+*.pyc
